@@ -1,0 +1,23 @@
+[33mcommit 051647fb1afb086facae81bfb26186df7724dcac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Richan Ramirez Priel <chanramirez216@gmail.com>
+Date:   Wed Dec 21 17:15:08 2022 +0800
+
+    updated test.txt
+
+[33mcommit 119b58784e03e5f8e9c43f751976e0117f543611[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Richan Ramirez Priel <chanramirez216@gmail.com>
+Date:   Wed Dec 21 17:08:48 2022 +0800
+
+    added new feature
+
+[33mcommit 44be0b8d12174f5e37058c51a07ec0c713742410[m
+Author: Richan Ramirez Priel <chanramirez216@gmail.com>
+Date:   Wed Dec 21 16:55:52 2022 +0800
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 1a9ef93f65245ecf5930cc785b5f57a1ed71f971[m
+Author: ChanTheProgrammer <chanramirez216@gmail.com>
+Date:   Wed Dec 21 16:39:53 2022 +0800
+
+    added test.txt file
